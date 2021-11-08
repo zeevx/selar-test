@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbb75fae-4551-4eb7-839f-33ca03d2f4da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/w2gpbcOjzxhuZpFcDrM0BJ4Xnt336AY46dyCvDBF" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/sessions/w2gpbcOjzxhuZpFcDrM0BJ4Xnt336AY46dyCvDBF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636331046265</updated>
-      <workItem from="1636331047584" duration="897000" />
+      <workItem from="1636331047584" duration="954000" />
     </task>
     <servers />
   </component>
